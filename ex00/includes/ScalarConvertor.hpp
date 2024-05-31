@@ -4,4 +4,6 @@
 class ScalarConvertor {
 public:
 	static void convert(std::string ltr);
+private:
+	ScalarConvertor();
 };

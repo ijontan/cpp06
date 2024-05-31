@@ -150,3 +150,6 @@ void ScalarConvertor::convert(string ltr)
 		std::cerr << "error: invalid input" << endl;
 	}
 }
+ScalarConvertor::ScalarConvertor()
+{
+}

@@ -9,5 +9,6 @@ int main(int ac, char **av)
 	std::string ltr(av[1]);
 	ScalarConvertor::convert(ltr);
 
+	ScalarConvertor a;
 	return 0;
 }
